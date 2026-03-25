@@ -1,0 +1,3 @@
+CVAT es una plataforma de nivel empresarial para gestionar conjuntos de datos visuales de alta calidad para aplicaciones de visión por computadora. Ofrece herramientas avanzadas para la anotación de imágenes, videos y 3D, aseguramiento de calidad integrado, automatización y colaboración de equipos seguros.
+CVAT admite varias herramientas y modos para etiquetar manualmente imágenes, videos y datos 3D.
+Estas herramientas definen cómo se comporta el editor, cómo se crean las formas y qué tipos geométricos puedes usar durante la anotación.
